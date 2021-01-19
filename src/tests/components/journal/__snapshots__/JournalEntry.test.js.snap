@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <JournalEntry /> debería mostrarse correctamente 1`] = `
+<div
+  className="journal__entry"
+  onClick={[Function]}
+>
+  <div
+    className="journal__entry-body"
+  >
+    <p
+      className="journal__entry-title"
+    >
+      new title
+    </p>
+    <p
+      className="journal__entry-content"
+    >
+      new body
+    </p>
+  </div>
+  <div
+    className="journal__entry-date-box"
+  >
+    <span>
+      Monday
+    </span>
+    <h4>
+      4th
+    </h4>
+  </div>
+</div>
+`;
